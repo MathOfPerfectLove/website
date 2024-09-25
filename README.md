@@ -8,7 +8,7 @@ The *math of perfect love* is a mathematical recipe for a human-based decision-m
 ### What about other human beings besides the G2 decision-maker?
 Objectively, the G2 mathematical model recognizes that the optimal environment for human animals is to be integrated into a web of connection with other humans who use the G2 decision-making process.
 
-Subjectively, this is simply saying that the safest and most fulfilling environment for a human being is within a "chosen family" of people who love each other unconditionally.
+Subjectively, this is simply saying that the safest and most fulfilling environment for a human being is within a *chosen family*, or <span title="'Ohana' is a Hawaiian word of great and beautiful cultural depth. Most simply, it means 'family plus those who are treated as family'.">*ohana*</span>, of people who love each other unconditionally.
 
-This recognition leads immediately to the implication that decision-making which is optimal for the host animal must also optimize 
+This recognition leads immediately to the implication that decision-making which is optimal for the host animal must also take into account how those decisions will affect the *ohana*.
 
