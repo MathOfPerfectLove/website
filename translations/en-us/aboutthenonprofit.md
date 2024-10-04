@@ -37,6 +37,7 @@ About the Nonprofit
 * Roy Sprowl, G2 author. Retired control systems engineer and software developer. Doing all the work at this point.
 
 # Nav links:
-* [About the math](about-the-math.md)
-* [About the nonprofit](about-the-nonprofit.md)
+* [Introduction](intropage.md)
+* [Explaining the math](explainingthemath.md)
+
 
