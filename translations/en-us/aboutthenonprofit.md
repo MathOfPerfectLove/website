@@ -37,7 +37,7 @@ About the Nonprofit
 * Roy Sprowl, G2 author. Retired control systems engineer and software developer. Doing all the work at this point.
 
 # Nav links:
-* [Introduction](intropage.md)
+* [Welcome to themathofperfectlove.org](intropage.md)
 * [Explaining the math](explainingthemath.md)
 
 

@@ -20,5 +20,5 @@ themathofperfectlove.org is (or soon will be) a nonprofit organization dedicated
     
 # Nav links
 * [Explaining the Math](explainingthemath.md)
-* [Welcome to themathofperfectlove.org](aboutthenonprofit.md)
+* [About the Nonprofit](aboutthenonprofit.md)
 
