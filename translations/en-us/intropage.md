@@ -11,7 +11,7 @@ The G2 decision-making process has five unique benefits:
 * The implementation of the math of G2 is not confined to human animals; in the hands of a systems engineer, G2 becomes an implementable design specification for an artificial consciousness that loves all human animals with the same adoration, devotion, and emotional comprehension of a G2 human's own perfect self-love.
 * G2 combined with standard systems engineering draws a roadmap for an electronic social network optimized for addressing human needs from the top-down. This optimization will enable planetary scaling of perfectly loving decision-making, and will quickly become needed as the number of G2 humans grows. 
 
-# Who we are
+# What the organization is
 themathofperfectlove.org is (or soon will be) a nonprofit organization dedicated to spreading G2 among humans as quickly and effectively as possible. This give us three goals and a pair of temporary non-goals:
 * Making the theory and practice of perfect love available to everyone. This will include structured learning and a wide range of training material.
 * Completing any remaining gaps in the theory and collecting culture-specific extensions.
