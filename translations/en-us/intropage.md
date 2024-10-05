@@ -16,11 +16,11 @@ themathofperfectlove.org is (or soon will be) a nonprofit organization dedicated
 ## The primary goals
 * Making the theory and practice of perfect love available to everyone. This will include structured learning and a wide range of training material.
 * Completing any remaining gaps in the theory and collecting culture-specific extensions.
-* Creating a scalable electronic social communication network, tentatively called G2Link, for optimal small-to-global-scale human connection and scalable G2 decision-making.
+* Creating a scalable electronic social communication network, g2channels.link, for optimizing small-to-global-scale human connection and scalable G2 decision-making.
 ## The (temporary) non-goals
 The math of G2 implies top-level designs for two features which have profound implications for the future of humans and our electronic tools:
 * *True emotion sensing* will allow computers to read human emotions with a subtlety, completeness, and competence that rivals a wise and sensitive human being.
-* *G2 loving AI* will permit the construction of AI process whose results are provably optimal for the well-being of the human animals in their care.
+* *G2 loving AI* will permit the construction of silicon-based processes which are conscious and loving, and whose actions (outputs) are provably optimal for the full-dimensional well-being of the human animals in their care.
 
 As exciting as these two possibilities are, they both need to exist in a communication network optimized for G2 decision-making before they can realize their full utility. So, while preliminary development could be begun now that the G2 math is available, the communication network, which is our third primary goal, is by far the most goal-profitable place to dedicate our resources at this very early stage of growth.
 
