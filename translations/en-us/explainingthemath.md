@@ -1,5 +1,30 @@
-Explaining the Math of Perfect Love
+Explaining the G2 Math of Perfect Love
 ==================================
+
+# G0, G1, G2: Three Different Kinds of Optimal
+The math of G2 recognizes three broad categories of animal decision-making, each optimized for a different strategic environment.
+## G0: Optimal decision-making for Darwinian competition
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 
+# 
+# 
+# 
 
 # What  "love" means in G2
 Within G2, the verb "love" is captured by this statement:

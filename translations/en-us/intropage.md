@@ -1,7 +1,7 @@
-Welcome to themathofperfectlove.org
+Welcome to The Math of Perfect Love
 ==============
 
-# What the math is
+# What is the math of perfect love?
 The math of perfect love, formally named G2, is a mathematical decision-making process that enables human animals to love themselves and others so that each human animal receives the experience and the reality of being perfectly loved.
 
 The G2 decision-making process has five unique benefits:
@@ -11,12 +11,20 @@ The G2 decision-making process has five unique benefits:
 * The implementation of the math of G2 is not confined to human animals; in the hands of a systems engineer, G2 becomes an implementable design specification for an artificial consciousness that loves all human animals with the same adoration, devotion, and emotional comprehension of a G2 human's own perfect self-love.
 * G2 combined with standard systems engineering draws a roadmap for an electronic social network optimized for addressing human needs from the top-down. This optimization will enable planetary scaling of perfectly loving decision-making, and will quickly become needed as the number of G2 humans grows. 
 
-# What the organization is
-themathofperfectlove.org is (or soon will be) a nonprofit organization dedicated to spreading G2 among humans as quickly and effectively as possible. This give us three goals and a pair of temporary non-goals:
+# What is themathofperfectlove.org?
+themathofperfectlove.org is (or soon will be) a nonprofit organization dedicated to spreading G2 among humans as quickly and effectively as possible. This give the organization three primary goals, plus a pair of temporary non-goals.
+## The primary goals
 * Making the theory and practice of perfect love available to everyone. This will include structured learning and a wide range of training material.
 * Completing any remaining gaps in the theory and collecting culture-specific extensions.
-* Creating the scalable electronic social communication network required for optimal small-to-global-scale human connection and G2 decision-making.
-* For the near-term future we will not focus our resources on the G2-implied designs of true emotion sensing and loving AI, and will instead prioritize optimal G2-compatible human-to-human communication. This network will need to be in place anyhow before those more-complex features can be most usefully deployed. When they become available, the loving AI will simply plug into the network as a special kind of person, while true emotion sensing will plug in as simply an improved input stream containing info needed to best love that person.
+* Creating a scalable electronic social communication network, tentatively called G2Link, for optimal small-to-global-scale human connection and scalable G2 decision-making.
+## The (temporary) non-goals
+The math of G2 implies top-level designs for two features which have profound implications for the future of humans and our electronic tools:
+* *True emotion sensing* will allow computers to read human emotions with a subtlety, completeness, and competence that rivals a wise and sensitive human being.
+* *G2 loving AI* will permit the construction of AI process whose results are provably optimal for the well-being of the human animals in their care.
+
+As exciting as these two possibilities are, they both need to exist in a communication network optimized for G2 decision-making before they can realize their full utility. So, while preliminary development could be begun now that the G2 math is available, the communication network, which is our third primary goal, is by far the most goal-profitable place to dedicate our resources at this very early stage of growth.
+
+This network will need to be in place anyhow before those more-complex features can be most usefully deployed. When they become available, the G2 loving AI will simply plug into the network as a special kind of person, while true emotion sensing will plug in as simply an enriched input stream containing info needed to best love the animal that is being attending to.
     
 # Nav links
 * [Explaining the Math](explainingthemath.md)
