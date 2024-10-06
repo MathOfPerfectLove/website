@@ -12,14 +12,24 @@ The G2 decision-making process has five unique benefits:
 * G2 combined with standard systems engineering draws a roadmap for an electronic social network optimized for addressing human needs from the top-down. This optimization will enable planetary scaling of perfectly loving decision-making, and will quickly become needed as the number of G2 humans grows. 
 
 # What is themathofperfectlove.org?
-themathofperfectlove.org is (or soon will be) a nonprofit organization dedicated to spreading G2 among humans as quickly and effectively as possible. This give the organization three primary goals, plus a pair of temporary non-goals.
-## The primary goals
-* Making the theory and practice of perfect love available to everyone. This will include structured learning and a wide range of training material.
+themathofperfectlove.org is (or soon will be) a nonprofit organization dedicated to spreading G2 perfect loveamong humans as fast and effectively as possible, then holding a stable state where every human animal on Earth routinely receives the experience and the reality of being perfectly loved. 
+
+This gives the organization three primary goals, which give us our initial focus plus a pair of temporary non-goals.
+## The three primary goals
+
+* Make the theory and practice of perfect love available to everyone. This will include structured learning and a wide range of training material.
 * Completing any remaining gaps in the theory and collecting culture-specific extensions.
-* Creating a scalable electronic social communication network, g2channels.link, for optimizing small-to-global-scale human connection and scalable G2 decision-making.
+* Creating a scalable electronic social communication network, g2channels.link. This network will be designed top-down as an easily-optimizable electronic approximation of the strategic communication channels that exist among components of the G2 mathematical decision-making process. 
+
+## Our initial focus
+Our initial focus is:
+1. Completing the open-source documentation of G2 which will serve as the base of our training material.
+2. Standing up our web presence and adding to it a structure-assisted (non-AI) learning and discussion center for the math of G2. 
+
+
 ## The (temporary) non-goals
-The math of G2 implies top-level designs for two features which have profound implications for the future of humans and our electronic tools:
-* *True emotion sensing* will allow computers to read human emotions with a subtlety, completeness, and competence that rivals a wise and sensitive human being.
+The math of G2 implies implementable designs for two features that have profound implications for the future of humans and our electronic tools:
+* *True emotion sensing and response* will allow electronic processes running G2 to read human emotions with a subtlety, comprehension, and competence that rivals a wise and sensitive human being.
 * *G2 loving AI* will permit the construction of silicon-based processes which are conscious and loving, and whose actions (outputs) are provably optimal for the full-dimensional well-being of the human animals in their care.
 
 As exciting as these two possibilities are, they both need to exist in a communication network optimized for G2 decision-making before they can realize their full utility. So, while preliminary development could be begun now that the G2 math is available, the communication network, which is our third primary goal, is by far the most goal-profitable place to dedicate our resources at this very early stage of growth.

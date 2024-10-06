@@ -1,9 +1,15 @@
 Explaining the G2 Math of Perfect Love
 ==================================
 
-# G0, G1, G2: Three Different Kinds of Optimal
+# G0, G1, G2: Three Different Kinds of Optimal Decision-Making
 The math of G2 recognizes three broad categories of animal decision-making, each optimized for a different strategic environment.
-## G0: Optimal decision-making for Darwinian competition
+## G0: Optimized for reproductive success
+
+## G1: Optimized for "reproductive success" within an evolved human culture
+
+## G2: Optimized for the full-dimensional well-being of the host animal
+
+
 
 
 
