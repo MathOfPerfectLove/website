@@ -1,4 +1,4 @@
-# The Math of Perfect Love
+# Abandoned for Now </br>~~The Math of Perfect Love~~
 This GitHub repository is the source for the under-construction website [themathofperfectlove.org](https://themathofperfectlove.org/).
 
 ## Website content
