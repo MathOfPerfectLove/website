@@ -1,5 +1,25 @@
 Explaining the G2 Math of Perfect Love
 ==================================
+If you are used to reading technical documents, then 
+
+# The *G2 Seed Dictionary*: the smallest set of abstractions needed to begin describing G2
+
+
+
+
+
+
+
+
+
+
+# Game Theory versus Distributed Systems: The two kinds of math used in animal decision-making
+## Game Theory
+Used 
+
+## Distributed Systems
+
+
 
 # G0, G1, G2: Three Different Kinds of Optimal Decision-Making
 The math of G2 recognizes three broad categories of animal decision-making, each optimized for a different strategic environment.
@@ -7,7 +27,7 @@ The math of G2 recognizes three broad categories of animal decision-making, each
 
 ## G1: Optimized for "reproductive success" within an evolved human culture
 
-## G2: Optimized for the full-dimensional well-being of the host animal
+## G2: Optimized for the well-being of the host animal
 
 
 
